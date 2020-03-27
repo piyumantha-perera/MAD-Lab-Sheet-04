@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="tel_phone">Telephone</string>
+    <string name="pss">Password</string>
+    <string name="re_pss">Re-type-Password</string>
+    <string name="reg">REGISTER</string>
+    <string name="cancel">CANCEL</string>
+    <string name="channel_name">ChannelName</string>
+    <string name="channel_description">ChannelDescription</string>
+</resources>
